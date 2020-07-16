@@ -18,7 +18,3 @@ end
 def return_string_array(array)
   array.map{|x| x.to_s}
 end
-
-
-
-  
